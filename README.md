@@ -1,0 +1,1 @@
+This repository contains a Haskell program that demonstrates a stack overflow error. The error occurs due to an infinite recursion in a custom Show instance for lists. The bug is fixed by using a more efficient implementation of the Show instance.
